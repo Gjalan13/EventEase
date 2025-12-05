@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Rohan Sharma",
+    "email": "rohan.sharma@mnit.ac.in",
+    "password": "$2a$10$examplehashedpassword1",
+    "role": "user",
+    "__v": 0
+  },
+  {
+    "name": "Neha Singh",
+    "email": "neha.singh@mnit.ac.in",
+    "password": "$2a$10$examplehashedpassword2",
+    "role": "organiser",
+    "__v": 0
+  },
+  {
+    "name": "Amit Kumar",
+    "email": "amit.kumar@mnit.ac.in",
+    "password": "$2a$10$examplehashedpassword3",
+    "role": "user",
+    "__v": 0
+  },
+  {
+    "name": "Priya Mehta",
+    "email": "priya.mehta@mnit.ac.in",
+    "password": "$2a$10$examplehashedpassword4",
+    "role": "organiser",
+    "__v": 0
+  },
+  {
+    "name": "Siddharth Jain",
+    "email": "siddharth.jain@mnit.ac.in",
+    "password": "$2a$10$examplehashedpassword5",
+    "role": "user",
+    "__v": 0
+  },
+  {
+    "name": "Ankita Verma",
+    "email": "ankita.verma@mnit.ac.in",
+    "password": "$2a$10$examplehashedpassword6",
+    "role": "organiser",
+    "__v": 0
+  },
+  {
+    "name": "Vikram Reddy",
+    "email": "vikram.reddy@mnit.ac.in",
+    "password": "$2a$10$examplehashedpassword7",
+    "role": "user",
+    "__v": 0
+  },
+  {
+    "name": "Shreya Gupta",
+    "email": "shreya.gupta@mnit.ac.in",
+    "password": "$2a$10$examplehashedpassword8",
+    "role": "organiser",
+    "__v": 0
+  },
+  {
+    "name": "Aditya Singh",
+    "email": "aditya.singh@mnit.ac.in",
+    "password": "$2a$10$examplehashedpassword9",
+    "role": "user",
+    "__v": 0
+  },
+  {
+    "name": "Isha Sharma",
+    "email": "isha.sharma@mnit.ac.in",
+    "password": "$2a$10$examplehashedpassword10",
+    "role": "organiser",
+    "__v": 0
+  }
+]
